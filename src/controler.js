@@ -1,0 +1,3 @@
+const semanaRequest = () => {
+  fetch("/week");
+};

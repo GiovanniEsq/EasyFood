@@ -1,0 +1,26 @@
+.container{
+    position: relative;
+    text-align: center;
+    color: white; 
+}
+.container img{
+    filter: brightness(75%);  
+}
+.text{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 15px;
+
+
+}
+#dia{
+    top:40%;
+    font-size: 25px;
+    padding-bottom: 15px;
+}
+.diaLink{
+    font-size: 20px;
+    color: white
+}

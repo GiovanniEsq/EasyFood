@@ -1,0 +1,21 @@
+
+*{
+    font-family: sans-serif;
+}
+.contenedor{
+padding: 20px;
+padding-top:0px;
+padding-bottom: 0; 
+margin: 20px;
+margin-bottom: 40px;
+}
+.nomargin{
+    margin: 0;  
+}
+h1{
+    font-size: 27px;
+    margin: 0;
+}
+#closing{
+    height: 1000px;
+}

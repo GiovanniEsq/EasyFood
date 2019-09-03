@@ -1,0 +1,33 @@
+html{
+    overflow-y: hidden;
+}
+.containers{
+width: 100%;
+
+
+ /*   justify-content: space-between;
+    flex-wrap: wrap;
+*/
+}
+.button{
+
+    display: inline-block;
+    margin: 10px;
+    margin-right: 10px;
+    margin-bottom: 1;
+    padding: 3px;
+    border-bottom:  5px solid #f75757;
+
+    text-decoration: none;
+    color: #747373;
+
+
+}
+
+
+.button:hover {
+    color:#747373;
+    font-size: 20px;
+    border-bottom:  10px solid #f75757;
+
+}
